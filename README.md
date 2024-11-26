@@ -69,12 +69,6 @@ To run **MubinCard** locally on your device:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 This layout uses clear headings, emojis, and formatting to make it visually appealing and easy to read. You can copy this updated content into your `README.md` file.
 
 Let me know if you'd like to add or modify anything!

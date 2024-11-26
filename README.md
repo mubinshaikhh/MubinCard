@@ -1,10 +1,9 @@
-<img width="619" alt="Screenshot 2024-11-26 at 5 30 14 PM" src="https://github.com/user-attachments/assets/68949738-face-4fac-b674-4ef2da7fd665">
-
 ---
 
-# MubinCard
+# ProfolioCard
+<img width="619" alt="Screenshot 2024-11-26 at 5 30 14 PM" src="https://github.com/user-attachments/assets/68949738-face-4fac-b674-4ef2da7fd665">
 
-**MubinCard** is a personal portfolio app designed to showcase professional achievements, skills, and contact information. Built for iOS, the app allows users to create a digital business card, customize it, and share it seamlessly with others. With a modern and intuitive interface, **MubinCard** serves as a digital representation of one's professional identity.
+**ProfolioCard** is a personal portfolio app designed to showcase professional achievements, skills, and contact information. Built for iOS, the app allows users to create a digital business card, customize it, and share it seamlessly with others. With a modern and intuitive interface, **ProfolioCard** serves as a digital representation of one's professional identity.
 
 ---
 
@@ -45,7 +44,7 @@
 
 ## 📥 Installation
 
-To run **MubinCard** locally on your device:
+To run **ProfolioCard** locally on your device:
 
 1. **Clone the repository**:
    ```bash
